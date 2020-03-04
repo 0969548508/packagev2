@@ -1,7 +1,6 @@
 {
     "name": "nnbao/press",
     "description": "this is my second package",
-    "type": "project",
     "license": "MIT",
     "authors": [
         {
