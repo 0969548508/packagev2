@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "nnbao\\Press\\": "press/src/"
+            "nnbao\\Press\\": "src/"
         }
     },
     "require": {},
