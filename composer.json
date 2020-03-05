@@ -13,5 +13,12 @@
             "nnbao\\Press\\": "press/src/"
         }
     },
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+          "providers": [
+            "nnbao\\Press\\PressBaseServiceProvider"
+          ]
+        }
+    }
 }
